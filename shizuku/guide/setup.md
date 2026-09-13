@@ -1,4 +1,4 @@
-# User manual
+eddy# User manual
 
 [[toc]]
 
